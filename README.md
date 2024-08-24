@@ -64,7 +64,7 @@ So, You've got the project of Laravel Role & Permission Management on your http:
 
 
 ### Login & Dashboard Page
-![alt text][public/backend/assets/images/overview-img/login-page.png]
+![alt text](public/backend/assets/images/overview-img/login-page.png)
 
 
 ![alt text][dashboardImage]

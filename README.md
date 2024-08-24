@@ -67,35 +67,34 @@ So, You've got the project of Laravel Role & Permission Management on your http:
 ![alt text](public/backend/assets/images/overview-img/login-page.png)
 
 
-![alt text][dashboardImage]
+![alt text](public/backend/assets/images/overview-img/dashboard.png)
 
 ### Role Pages
 Role List
-![alt text][roleListImage]
+![alt text](public/backend/assets/images/overview-img/role-list-page.png)
 Role Create
-![alt text][roleCreateImage]
+![alt text](public/backend/assets/images/overview-img/role-create-page.png)
 Role Edit
-![alt text][roleEditImage]
+![alt text](public/backend/assets/images/overview-img/role-edit-page.png)
 
 ### Admin Pages
 Admin List
-![alt text][adminListImage]
+![alt text](public/backend/assets/images/overview-img/user-list-page.png)
 Admin Create
-![alt text][adminCreateImage]
+![alt text](public/backend/assets/images/overview-img/admin-user-edit.png)
 
 ### Todo Pages
 Todo List
-![alt text][roleListImage]
+![alt text](public/backend/assets/images/overview-img/Todo-list-page.png)
 Todo Create
-![alt text][roleCreateImage]
+![alt text](public/backend/assets/images/overview-img/create-Todo-page.png)
 Todo Edit
-![alt text][roleEditImage]
+![alt text](public/backend/assets/images/overview-img/edit-Todo-page.png)
 
 ### Other Pages
 Custom Error Pages
-![alt text][errorPageImage]
-Dynamic Sidebar Manage
-![alt text][sidebarDyanamic]
+![alt text](public/backend/assets/images/overview-img/custom-error-page.png)
+
 
 
 
